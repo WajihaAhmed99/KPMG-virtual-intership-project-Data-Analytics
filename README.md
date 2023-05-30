@@ -1,7 +1,7 @@
 # KPMG-virtual-intership-project-Data-Analytics
 In this Internship project we learn what it’s like to produce business results with the KPMG data analytics team.
 ## About the Project
-Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd needs help with its customer and transactions data. The organisation has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy. 
+In this KPMG data analytics internship project, we worked with Sprocket Central Pty Ltd, a medium-sized bike and cycling accessories company. Our objective was to identify high-value customers by analyzing customer demographic and attributes. We utilized Power Query to analyze the data, Power BI to visualize patterns, and presented our key findings using PowerPoint.
 ## Tools use in this Project
 * Power Query for data analysis
 * Power BI for data visulization
